@@ -1,0 +1,20 @@
+{
+    "name": "landzero/xlog",
+    "description": "XLog for PHP",
+    "version": "0.1",
+    "keywords": [
+        "correlation-id"
+    ],
+    "autoload": {
+        "files": [
+            "lib/xlog.php"
+        ]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "etanaru",
+            "email": "etanaru@landzero.net"
+        }
+    ]
+}
